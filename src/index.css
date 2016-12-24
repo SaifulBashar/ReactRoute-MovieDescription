@@ -1,0 +1,42 @@
+body{
+  color: white;
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+
+}
+
+.poster{
+  top:10%;
+  left:10%;
+  float: left;
+
+}
+
+.firstrow{
+  margin-top: 2.5%;
+}
+.mposter{
+  float: right;
+  width: 50%;
+}
+.info{
+  width: 50%;
+  float: right;
+  margin-top: 10%;
+
+
+}
+.info p ,button{
+  font-size: xx-large;
+  text-decoration: underline;
+  text-align: right;
+
+}
+
+.plot{
+  color: #999999;
+  background-color: #3c3c3c;
+  opacity: 50;
+}
